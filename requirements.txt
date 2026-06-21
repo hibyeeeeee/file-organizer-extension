@@ -1,0 +1,2 @@
+# No external libraries needed for this project
+# Built-in Python modules only: os, shutil, argparse, logging
